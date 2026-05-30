@@ -178,7 +178,7 @@ I prefer practical systems that are easy to use, easy to understand, and strong 
 - Website: [rtg-automations.com](https://rtg-automations.com)
 - Email: [rus@rtg-automations.com](mailto:rus@rtg-automations.com)
 - Telegram: [@rusa750](https://t.me/rusa750)
-- GitHub: [@rusadrago](https://github.com/rusadrago)
+- GitHub: [@rusa750](https://github.com/rusa750)
 
 ---
 
