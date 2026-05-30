@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rusa750/rusa750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ruslan Draganov
 
-Here are some ideas to get you started:
+### Automation Builder · Trading Systems · Python · APIs · Web Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical automation systems, trading tools, dashboards, and backend workflows that are meant to run — not just look good in screenshots.
+
+</div>
+
+---
+
+## What I build
+
+- Trading automation: TradingView → webhook → broker/exchange execution
+- Backend tools with Python, Node.js, APIs, databases, and automation flows
+- Business systems, dashboards, and internal tools
+- Web apps and landing pages that are fast, clean, and simple
+- n8n workflows when they make sense — custom code when they do not
+
+---
+
+## Current focus
+
+```txt
+Trading automation
+Broker/exchange APIs
+Webhook engines
+Execution safety
+Backend reliability
+Automation for real businesses
