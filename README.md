@@ -174,8 +174,11 @@ I prefer practical systems that are easy to use, easy to understand, and strong 
 
 ## Contact
 
+- Location: Brisbane, Australia
+- Website: [rtg-automations.com](https://rtg-automations.com)
+- Email: [rus@rtg-automations.com](mailto:rus@rtg-automations.com)
+- Telegram: [@rusa750](https://t.me/rusa750)
 - GitHub: [@rusadrago](https://github.com/rusadrago)
-- Email: rusadrago@gmail.com
 
 ---
 
